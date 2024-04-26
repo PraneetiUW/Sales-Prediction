@@ -26,10 +26,9 @@ Feature engineering involves creating new features that can potentially improve 
 - Extracting categories from `Item_Identifier`.
 - Imputing missing values based on data distribution.
 - Encoding categorical variables.
-These steps are detailed in `scripts/feature_engineering.py`.
 
 ## Exploratory Data Analysis
-We provide a detailed exploratory analysis in `notebooks/eda.ipynb`, which includes distribution of variables, relationship between different features, and correlation analysis.
+ Includes distribution of variables, relationship between different features, and correlation analysis.
 
 ## Model Training and Evaluation
 Several regression models are trained to predict sales:
